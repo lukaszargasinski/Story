@@ -1,1 +1,1 @@
-To jest jakieś pierwsze zdanie. To jest drugie.
+To jest jakieś 1 zdanie. To jest 2.
